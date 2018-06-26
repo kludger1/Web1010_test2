@@ -11,6 +11,12 @@ var numGoldfish = 4;
 var monthNumber = 1;
 var monthsToPrint = 12;
 
+while(monthNumber<=monthsToPrint){
+    console.log(`There will be ${numGoldfish*= 4} goldfish after ${monthNumber} month(s)!`)
+    monthNumber++;
+}
+
+
 // Here’s what the first two lines of output should look like:
 //
 //    There will be 16 goldfish after 1 month(s)!

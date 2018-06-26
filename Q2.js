@@ -7,3 +7,6 @@
 "two"
 3
 7
+
+var string = "eight " + "5 " + "six " + "two " + "3 " + "7"
+console.log(string)

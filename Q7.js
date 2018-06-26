@@ -6,3 +6,6 @@
 //             "Nevermore!"
 //
 // Note: there is a tab before "Nevermore!"
+
+var String = "Quoth the raven:\n\t \"Nevermore!\""
+console.log(String)
